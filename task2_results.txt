@@ -1,0 +1,7 @@
+
+Change Point Analysis Results (2015–2022, Monthly):
+- Most Likely Change Point: 30-Sep-2017 (Index: 32)
+- Mean Price Before: $49.88
+- Mean Price After: $69.21
+- Price Change: 38.75%
+- Closest Event: OPEC agrees to production cuts on 30-Nov-2016
